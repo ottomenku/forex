@@ -12,5 +12,4 @@ $history[]=$tick;
 
 
 echo $ret;
-
-<php>
+print_R($tick) ;
