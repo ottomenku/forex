@@ -13,3 +13,4 @@ $history[]=$tick;
 
 echo $ret;
 
+<php>
