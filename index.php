@@ -1,4 +1,4 @@
-<?<php>
+<?php
 $tick=[];
 $tick["bid"]=$_GET['bid'];
 $tick["ask"]=$_GET['ask'];
