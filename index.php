@@ -1,4 +1,5 @@
 <?php
+define('DEVMODE', true);
 $tick=[];
 $tick["bid"]=$_GET['bid'];
 $tick["ask"]=$_GET['ask'];
@@ -10,16 +11,5 @@ $history[]=$tick;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 echo $ret;
-</php>
+
