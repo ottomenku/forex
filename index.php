@@ -1,5 +1,5 @@
 <?php
-define('DEVMODE', true);
+error_reporting(E_ALL);
 $tick=[];
 $tick["bid"]=$_GET['bid'];
 $tick["ask"]=$_GET['ask'];
